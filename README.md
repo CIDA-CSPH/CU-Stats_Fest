@@ -35,7 +35,7 @@
 
 2. Create your own github repo called <user-id>/CU-Stats_Fest by using the ``Use
    this template'' button from the [base
-   CU-Stats_Fest]().  (Learn
+   CU-Stats_Fest](https://github.com/CIDA-CSPH/CU-Stats_Fest).  (Learn
    more about template repositories
    [here](https://docs.github.com/articles/creating-a-repository-from-a-template/))
 
@@ -59,4 +59,4 @@
 ## Funding for CU Stats Fest
 
 ## Report Issues
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report any issues you have with CU Stats Fest on [GitHub Issues]().
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please report any issues you have with CU Stats Fest on [GitHub Issues](https://github.com/CIDA-CSPH/CU-Stats_Fest/issues).
