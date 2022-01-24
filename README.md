@@ -39,7 +39,7 @@
    more about template repositories
    [here](https://docs.github.com/articles/creating-a-repository-from-a-template/))
 
-3. Provide github users @Dekermanjian and (LALA GitHub) with access to your repository by adding @Dekermanjian and (LALA GitHub) as
+3. Provide github users @Dekermanjian and @graulaurak with access to your repository by adding @Dekermanjian and @graulaurak as
    collaborators.  Instructions for adding a collaborator are found
    [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
