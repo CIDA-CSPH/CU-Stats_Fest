@@ -33,6 +33,9 @@
 
 1. Sign up for the event using the [Registration Form](https://app.smartsheet.com/b/form/fd67eccbeb474727a70d69ee30eff869)
 
+If you are unfamiliar with GitHub, you are welcome to submit your work directly to Lala (laura.grau@cuanschutz.edu)
+
+
 2. Create your own github repo called <user-id>/CU-Stats_Fest by using the ``Use
    this template'' button from the [base
    CU-Stats_Fest](https://github.com/CIDA-CSPH/CU-Stats_Fest).  (Learn
